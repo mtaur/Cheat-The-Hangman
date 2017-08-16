@@ -1,0 +1,109 @@
+* {
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 60px;
+	text-align: center;
+	background-size: cover;
+	background-repeat:no-repeat;
+}
+
+.container {
+	margin-top:10%;
+	/*
+	Do cool stuff here?
+	*/
+}
+
+
+#strike-0 {
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 60px;
+	text-align: center;
+	background-color: #d3fcff;
+	background-image: none;
+}
+
+#strike-1 {
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 60px;
+	text-align: center;
+	background-color: #a4c8f2;
+	background-image: none;
+}
+
+#strike-2 {
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 60px;
+	text-align: center;
+	background-color: #50336d;
+	background-image: none;
+}
+
+#strike-3 {
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 60px;
+	text-align: center;
+	background-color: #540f49;
+	background-image: url('../images/hangmanBG1.png');
+}
+
+#strike-4 {
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 60px;
+	text-align: center;
+	background-color: #872a0c;
+	background-image: url('../images/hangmanBG1.png');
+}
+
+#strike-5 {
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 60px;
+	text-align: center;
+	background-color: #ba1c07;
+	background-image: url('../images/hangmanBG2.png');
+}
+
+#strike-6 {
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 60px;
+	text-align: center;
+	background-color: #383737;
+	background-image: url('../images/hangmanBG2.png');
+}
+
+#win {
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 60px;
+	text-align: center;
+	background-color: #fff7c1;
+}
+
+
+.letterButton {
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 60px;
+	text-align: center;
+	min-width:8%;
+	max-height:20%;
+	background-color: #d7ebf2;
+}
+
+#answer {
+	background-color: white;
+}
+
+#puzzle, #guess {
+	display:inline-block;
+	text-align:center;
+	background-color: white;
+	margin: auto 10px auto 10px;
+	width:50%;
+}
+
+#keyPressed {
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 60px;
+	text-align: center;
+	min-width:8%;
+	max-height:20%;
+	background-color: #444444;
+}
